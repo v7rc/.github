@@ -2,7 +2,7 @@
 
 ## Before you start:
   
-  V7RC is a free app onn ios APP store and Android Google play. It is used for control the RC devices(Car, flight, boat and robots). We create those projects and development for V7RC eco=system for makers.
+  V7RC is a free app onn ios APP store and Android Google play. This project is started from 2015 by V7 Idea Technology Ltd. It is used for control the RC devices(Car, flight, boat and robots). We create those projects and development for V7RC eco=system for makers.
   Welcome to join us to develop your own RC devices which can be control by V7RC.
 
 ## Notice for Commerical use:
