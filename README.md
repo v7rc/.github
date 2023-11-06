@@ -8,3 +8,5 @@
 ## Notice for Commerical use:
 
 If you are interested in applying the V7RC eco-system to your business, please let us know what area you plan to apply. We hope every makers are WIN-WIN in the V7RC eco-system. Some Repository is owned by makers. We will let him know if youu are interested in his source.
+
+We also provide the customerization services for your business, includs APP, hardware design, firmware design and coding, etc.
