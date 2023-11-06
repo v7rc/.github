@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# About V7RC 
+# About v7rc.io 
 
 ## Before you start:
   
